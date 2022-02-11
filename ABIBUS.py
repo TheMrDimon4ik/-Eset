@@ -1,4 +1,4 @@
-import pygame
+import pygame    # Pygame, чего еще хотели 
 import time
 import pyautogui as pg
 
